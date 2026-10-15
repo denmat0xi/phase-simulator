@@ -34,7 +34,7 @@
 
 Симулятор полностью развернут в облаке и доступен прямо в браузере без установки:
 
-👉 **[ОТКРЫТЬ PHASE SIMULATOR](https://ВАША-ССЫЛКА.streamlit.app/)**
+👉 **[ОТКРЫТЬ PHASE SIMULATOR](https://phase-simulator-gztm9qjvtekwxnrnfc8ouz.streamlit.app/)**
 
 ---
 
