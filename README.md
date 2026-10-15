@@ -58,7 +58,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <ВАШ_URL_РЕПОЗИТОРИЯ>
+   git clone https://github.com/denmat0xi/phase-simulator
    cd phase_simulator
    ```
 
