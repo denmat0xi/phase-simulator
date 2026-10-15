@@ -39,7 +39,7 @@
 4. В открывшемся терминале внизу экрана (в браузере) выполните:
    ```bash
    pip install -r requirements.txt
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 5. В правом нижнем углу появится уведомление `Your application is running on port 8501`. Нажмите **`Open in Browser`**, чтобы открыть симулятор.
 
