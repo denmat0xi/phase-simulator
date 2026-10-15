@@ -1,0 +1,61 @@
+import os
+
+gitignore_content = """# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Testing / Profiling
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+profile_default/
+.pytest_cache/
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+"""
+
+with open(".gitignore", "w", encoding="utf-8") as f:
+    f.write(gitignore_content)
+
+print("File .gitignore created successfully.")

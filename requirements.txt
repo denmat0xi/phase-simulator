@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+plotly>=5.18.0
+numpy>=1.26.0
+scipy>=1.11.0
+thermo>=0.2.27
